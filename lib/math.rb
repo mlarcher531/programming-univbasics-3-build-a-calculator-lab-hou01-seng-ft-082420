@@ -3,7 +3,7 @@ total = num1 + num2
 puts total.to_i
 end
 
-addition (2 , 4)
+addition(2 , 4)
 
 def subtraction(num1, num2)
 
