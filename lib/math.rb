@@ -6,8 +6,11 @@ end
 addition(2 , 4)
 
 def subtraction(num1, num2)
-
+  total = (num1 - num2)
+  total.to_i
 end
+
+subtraction(5,3)
 
 def division(num1, num2)
 
