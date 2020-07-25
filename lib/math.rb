@@ -1,6 +1,6 @@
 def addition(num1, num2)
-total = num1 + num2
-puts total.to_i
+  total = num1 + num2
+  total.to_i
 end
 
 addition(2 , 4)
